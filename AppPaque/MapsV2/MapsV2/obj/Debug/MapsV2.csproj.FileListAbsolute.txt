@@ -1,0 +1,111 @@
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\MapsV2.csprojResolveAssemblyReference.cache
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\MapsV2.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\MapsV2.pdb
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2.apk
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2-Signed.apk
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\MapsV2.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\MapsV2.pdb
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\android\bin\MapsV2.MapsV2.apk
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\res\layout\main.xml
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\res\values\strings.xml
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\res\drawable\icon.png
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\R.cs.flag
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\uploadflags.txt
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\MapsV2.dll.mdb
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\obj\Debug\android\assets\MapsV2.dll.mdb
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arturo\Documents\Visual Studio 2015\Projects\cbtis2\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.pdb
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2.apk
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2-Signed.apk
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.dll
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.pdb
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\android\bin\MapsV2.MapsV2.apk
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\res\layout\main.xml
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\res\values\strings.xml
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\res\drawable\icon.png
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\R.cs.flag
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\uploadflags.txt
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.dll.mdb
+C:\xampp\htdocs\ProyectoPaqueteria\AppPaque\MapsV2\MapsV2\obj\Debug\android\assets\MapsV2.dll.mdb
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.pdb
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2.apk
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.MapsV2-Signed.apk
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\Newtonsoft.Json.xml
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.dll
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\MapsV2.pdb
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\android\bin\MapsV2.MapsV2.apk
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\res\layout\main.xml
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\res\values\strings.xml
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\res\drawable\icon.png
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\R.cs.flag
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\uploadflags.txt
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\bin\Debug\MapsV2.dll.mdb
+C:\xampp\htdocs\AppPaque\MapsV2\MapsV2\obj\Debug\android\assets\MapsV2.dll.mdb

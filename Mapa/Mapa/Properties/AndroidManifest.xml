@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Mapa.Mapa" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="21" />
+	<application android:label="googlemap">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBs6Eo-G97MW2F9DpsB77ZK1PNT9M2gTIA " />
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</application>
+	<user-permission android:name="com.googlemap.googlemap.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
+	<uses-permission android:name="com.googlemap.googlemap.permission.MAPS_RECEIVE" />
+	<uses-permission android:name="com.google.android.providers.gsf.permisson.READ_GSERVICES" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+</manifest>
